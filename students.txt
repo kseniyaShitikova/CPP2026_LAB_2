@@ -1,0 +1,5 @@
+Ivanov Good
+Petrov Middle
+Vac Bad
+Ellen Middle
+Forest Good
